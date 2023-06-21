@@ -13,7 +13,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/khoa-hoc-suc-
 
 'step 2: Add visual checkpoint at Page_category_khoa-hoc-suc-khoe'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00002_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00001_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
